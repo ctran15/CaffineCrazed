@@ -19,6 +19,11 @@ This game is build on Unity LTS 2017.4.25f1
 ">https://docs.google.com/presentation/d/1dwGJliT23N3fmVuIt7GeFcmmIBelhKiGvy1m0Pxf264/edit?usp=sharing
 <a>
   
+## Game Presentation Slide
+<a href="https://docs.google.com/presentation/d/1K7VPOjntorMRGSz1uxfL_gwA0y91vkbuDf4EjSWgovE/edit?usp=sharing
+">https://docs.google.com/presentation/d/1K7VPOjntorMRGSz1uxfL_gwA0y91vkbuDf4EjSWgovE/edit?usp=sharing
+<a>
+  
 ## Digital Mock-up
 <a href="https://thongle7.github.io/Digital-Prototype/">https://thongle7.github.io/Digital-Prototype/<a>
   
